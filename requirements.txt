@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ultralytics 
+torch
+torchvision
+opencv-python 
+jinja2
+python-multipart
+fpdf2
+pandas
+openpyxl
